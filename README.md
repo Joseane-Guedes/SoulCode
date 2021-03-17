@@ -1,5 +1,5 @@
 # SoulCode
-Projeto de cinema html5 e CSS
+## Projeto de cinema HTML5 e CSS
 
 Construir uma página para um Cine SoulCode:
 
